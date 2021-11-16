@@ -1,5 +1,5 @@
 # Computational-Method-by-using-fortran
-This repository help you in understanding and handwaving experience in the basics of numerical and simulation method that help you in vide range of field method 
+This repository help you in understanding and handwaving experience in the basics of numerical and simulation method that help you in wide range of field method 
 ## Prerequisit for learning :
 we are expected to have basic background of fortran-90 language or basics of any other language that will help you in understanding fortran language. we try to make it simple and each and every step is selp explenatory. our main focus will be the numerical methods to solve real life problem.
 ## outline of content will be given as follows 
@@ -31,7 +31,7 @@ There are the basic question on coluld ask which are relavant to all the ittrati
 ###### 4. How much computational effort is required in each itteration ?
 ###### 5. When does one stop the iterative cycle ?
 we will first consider a method called the bisection method which is a very simple and reliable iterative method.
-**The best way to make an initial guess of a root of f(x) =
+**The best way to make an initial guess of a root of f(x) = 0 is to sketch x vs f(x). The root of the equation are the points where the graph of y=f(x) cut the x axis.
 ## The Bisection Method :
 
 
