@@ -31,7 +31,7 @@ There are the basic question on coluld ask which are relavant to all the ittrati
 ###### 4. How much computational effort is required in each itteration ?
 ###### 5. When does one stop the iterative cycle ?
 we will first consider a method called the bisection method which is a very simple and reliable iterative method.
-**The best way to make an initial guess of a root of f(x) = 0 is to sketch x vs f(x). The root of the equation are the points where the graph of y=f(x) cut the x axis.
+**The best way to make an initial guess of a root of f(x) = 0 is to sketch x vs f(x). The root of the equation are the points where the graph of y=f(x) cut the x axis.**
 ## The Bisection Method :
 
 
